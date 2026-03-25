@@ -1,47 +1,80 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Gollarahalli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Software%20Developer%20%7C%20Tech%20Lead&descSize=18&descAlignY=55)
+## Hey, I'm Rohit 👋
 
-<p align="center">
-  <a href="https://github.com/rohitgs28">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&height=50&lines=Building+scalable+systems;Leading+engineering+teams;Toronto%2C+Canada" alt="Typing SVG" />
-  </a>
-</p>
+**Senior Software Developer & Tech Lead** in Toronto, Canada.
+
+I build full-stack systems and AI-powered developer tools. Currently focused on LLM integrations, the Model Context Protocol (MCP) ecosystem, and making databases more accessible through natural language.
 
 ---
 
-### About Me
+### What I'm Building
 
-Senior Software Developer & Tech Lead based in Toronto, Canada. I build scalable web applications and enjoy exploring AI/ML and distributed systems.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[querywise](https://github.com/rohitgs28/querywise)** — AI-powered database query generator
+
+A terminal UI (TUI) that lets you describe what you want in plain English and generates, explains, and executes SQL across Postgres, MySQL, and SQLite. Built with Rust, ratatui, and multi-provider AI support (Anthropic, OpenAI, Ollama).
+
+`rust` `ratatui` `sqlx` `tokio` `ai-agents`
+
+</td>
+<td width="50%" valign="top">
+
+**[mcpx](https://github.com/rohitgs28/mcpx)** — Lightweight MCP gateway proxy
+
+A reverse proxy for Model Context Protocol servers with bearer/API key auth, per-tool rate limiting, tool-level access control (allow/deny lists, read-only mode), and structured audit logging. One binary, zero dependencies beyond the Go stdlib.
+
+`go` `mcp` `json-rpc` `reverse-proxy` `security`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,powershell&theme=dark" />
-</p>
+**Languages**   Go · Rust · TypeScript · Python · Java
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-</p>
+**Frontend**   React · Next.js · Tailwind CSS
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,redis&theme=dark" />
-</p>
+**Backend**   Node.js · Express · Flask · gRPC
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions&theme=dark" />
-</p>
+**Data**   PostgreSQL · MongoDB · Redis · SQLite
+
+**Infra**   Docker · GitHub Actions · AWS · Terraform
+
+**AI/ML**   LLM APIs (Anthropic, OpenAI) · MCP · Ollama · RAG pipelines
 
 ---
 
-### Connect with me
+### Currently Exploring
+
+- Building developer tools on top of the **Model Context Protocol** (MCP)
+- Using LLMs as reasoning engines inside CLI and TUI applications
+- Rust for performance-critical systems and terminal interfaces
+- Bridging the gap between natural language and structured data
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitgs28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgs28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitgs28&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohitgollarahalli/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+   
+  <a href="mailto:rohit.gs28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-
