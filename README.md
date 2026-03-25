@@ -59,17 +59,6 @@ A reverse proxy for Model Context Protocol servers with bearer/API key auth, per
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitgs28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitgs28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohitgs28&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
   <a href="https://www.linkedin.com/in/rohitgollarahalli/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
