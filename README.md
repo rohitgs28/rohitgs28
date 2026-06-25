@@ -32,7 +32,8 @@ Claude Code plugin marketplace, with CI that validates every skill.
 
 ### 🌱 Open source
 
-- Fixed `custom-property-pattern` false negatives upstream in **[stylelint #8468](https://github.com/stylelint/stylelint/pull/8468)**.
+- **[cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner)** — security scanner for AI agent skills. Made SARIF output emit scan-root-relative artifact URIs ([#118](https://github.com/cisco-ai-defense/skill-scanner/pull/118)) and taught the recursive scanner to discover symlinked skill directories ([#128](https://github.com/cisco-ai-defense/skill-scanner/pull/128)).
+- **[stylelint/stylelint #8468](https://github.com/stylelint/stylelint/pull/8468)** — fixed `custom-property-pattern` false negatives for `@property` preludes.
 
 ### 📫 Reach me
 
