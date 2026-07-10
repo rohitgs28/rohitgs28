@@ -16,17 +16,17 @@ the **Model Context Protocol (MCP)** ecosystem.
 
 ### 🔭 What I'm building
 
-**[mcpx](https://github.com/rohitgs28/mcpx)** — a lightweight **MCP security gateway** in Go.
+**[mcpx](https://github.com/rohitgollarahalli/mcpx)** — a lightweight **MCP security gateway** in Go.
 Auth (incl. OAuth 2.1), rate limiting, tool-level access control, audit logging, and
 tool-integrity pinning that defends against rug-pull tool mutation
 ([CVE-2025-54136](https://nvd.nist.gov/vuln/detail/CVE-2025-54136)) — all in a single
 ~10 MB binary with one YAML config. No Kubernetes, no Docker Desktop required.
 
-**[querywise](https://github.com/rohitgs28/querywise)** — an **AI-powered terminal
+**[querywise](https://github.com/rohitgollarahalli/querywise)** — an **AI-powered terminal
 database client** in Rust. Ask in plain English, get SQL back; failed queries
 self-heal and retry. Postgres / MySQL / SQLite, and it runs fully offline with Ollama.
 
-**[claude-skills](https://github.com/rohitgs28/claude-skills)** — a curated set of
+**[claude-skills](https://github.com/rohitgollarahalli/claude-skills)** — a curated set of
 reusable **Agent Skills** for software engineering and product work, installable as a
 Claude Code plugin marketplace, with CI that validates every skill.
 
