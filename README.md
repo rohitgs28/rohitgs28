@@ -32,7 +32,7 @@ Claude Code plugin marketplace, with CI that validates every skill.
 
 ### 🌱 Open source
 
-- **[cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner)** — security scanner for AI agent skills. Made SARIF output emit scan-root-relative artifact URIs ([#118](https://github.com/cisco-ai-defense/skill-scanner/pull/118)) and taught the recursive scanner to discover symlinked skill directories ([#128](https://github.com/cisco-ai-defense/skill-scanner/pull/128)).
+- **[cisco-ai-defense/skill-scanner](https://github.com/cisco-ai-defense/skill-scanner)** — security scanner for AI agent skills. Made SARIF output emit scan-root-relative artifact URIs ([#118](https://github.com/cisco-ai-defense/skill-scanner/pull/118)), taught the recursive scanner to discover symlinked skill directories ([#128](https://github.com/cisco-ai-defense/skill-scanner/pull/128)), and fixed a never-converging dataflow fixpoint that hung behavioral scans on large files — ~40× faster, with truncated analysis surfaced instead of silently passing ([#130](https://github.com/cisco-ai-defense/skill-scanner/pull/130)).
 - **[stylelint/stylelint #8468](https://github.com/stylelint/stylelint/pull/8468)** — fixed `custom-property-pattern` false negatives for `@property` preludes.
 
 ### 📫 Reach me
